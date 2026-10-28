@@ -11,7 +11,8 @@ read the readme.txt in it or by here:
 1. Extract the Sigma 4.12 ZIP
 2. Go to your Minecraft folder (%appdata% then Minecraft)
 3. Put the Sigma in your Minecraft Folder.
-4. Follow for SKLauncher / MCLauncher
+4. Follow for SKLauncher / MCLauncher,
+
    1.1. SKLauncher, click the Plus Button
 
    ![image](https://github.com/user-attachments/assets/4d74b44f-4e58-41de-9e43-590688b85e5c)
