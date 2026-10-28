@@ -1,12 +1,5 @@
-# wtf is sigma? sigma skibidi? thats brainrot
-sigma is a old client. this version is from 2019 and cracked by infiniteleaks   
-This clients works on:
-Probably Verus lol
-Watchdogged (watchdogged.mc-games.org)
-Mospixel (funniesthvh.uk)
-noruleshvh (.net)
-# how to install?
-read the readme.txt in it or by here:
+This is Sigma 4.12, an ancient hacked client from 2019 which still performs well in HvH-oriented places.
+# how install sigma you motherfucker
 
 1. Extract the Sigma 4.12 ZIP
 2. Go to your Minecraft folder (%appdata%\.minecraft)
