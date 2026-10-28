@@ -9,7 +9,7 @@ noruleshvh (.net)
 read the readme.txt in it or by here:
 
 1. Extract the Sigma 4.12 ZIP
-2. Go to your Minecraft folder (%appdata$ then Minecraft)
+2. Go to your Minecraft folder (%appdata% then Minecraft)
 3. Put the Sigma in your Minecraft Folder.
 4. Follow for SKLauncher / MCLauncher
    1.1. SKLauncher, click the Plus Button
