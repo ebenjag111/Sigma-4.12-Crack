@@ -1,5 +1,10 @@
 # wtf is sigma? sigma skibidi? thats brainrot
-sigma is a old client. this version is from 2019 and cracked by infiniteleaks
+sigma is a old client. this version is from 2019 and cracked by infiniteleaks   
+This clients works on:
+Probably Verus lol
+Watchdogged (watchdogged.mc-games.org)
+Mospixel (funniesthvh.uk)
+noruleshvh (.net)
 # how to install?
 read the readme.txt in it or by here:
 
